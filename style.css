@@ -77,3 +77,49 @@ footer{
     margin-top: 50px;
 
 }
+
+.topicoResposta{
+    text-align: center;
+    font-weight: 900;
+    font-family: Della Respira;
+    font-style: normal;
+    font-size: 40px;
+    line-height: 25px;
+  }
+
+.textoResposta{
+    font-family: Della Respira;
+    font-style: normal;
+    font-size: 25px;
+    line-height: 25px;
+    text-align: center;
+  }
+
+  .titleRectangle{
+    position: absolute;
+    width: 680px;
+    height: 66px; 
+    background: rgb(105, 98, 98);
+    left: 273px;
+    color: white;
+    }
+
+.titulo{
+    font-family: Della Respira;
+    font-size: 20px;
+    text-align: center;
+}
+
+h1{
+    font-family: Della Respira;
+}
+
+.textoExplicativo{
+    font-family: Della Respira;
+    font-size: 20px;
+}
+
+a{
+    font-family: Della Respira;
+
+}
