@@ -75,6 +75,7 @@ footer{
     text-align: center;
     line-height: 120px;
     margin-top: 50px;
+    margin: 5px;
 
 }
 
@@ -108,12 +109,21 @@ footer{
     font-family: Della Respira;
     font-size: 20px;
     text-align: center;
+    
 }
 
 h1{
     font-family: Della Respira;
+    text-align: center;
 }
 
+#titulo{
+        font-family: Della Respira;
+        text-align: center;
+        padding-top: 10px;
+        width: 580px;
+        margin-left: 35px;
+}
 .textoExplicativo{
     font-family: Della Respira;
     font-size: 20px;
@@ -122,4 +132,7 @@ h1{
 a{
     font-family: Della Respira;
 
+}
+p{
+    text-align: center;
 }
